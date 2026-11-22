@@ -1,4 +1,7 @@
+![Tema do Site](https://img.shields.io/badge/Tema%20do%20Site-A%20ser%20discutido!-e6a23c)
+
 `README feito juntamente com uma IA, textos robóticos esperados. ✌️`
+
 
 # 🧟 Frankenstein's Project
 
